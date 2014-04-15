@@ -37,7 +37,7 @@ Examples:
 
 ## Next milestone
 
-The next major feature will the be release of a windows
+The next major feature will be the release of a windows
 version. This is scheduled to be released to testers
 on [300.2014](http://tylerneylon.com/a/7date/) = May 28.
 
