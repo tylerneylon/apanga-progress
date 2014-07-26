@@ -37,9 +37,11 @@ Examples:
 
 ## Next milestone
 
-The next major feature will be the release of a windows
-version. This is scheduled to be released to testers
-on [300.2014](http://tylerneylon.com/a/7date/) = May 28.
+The next milestone will be improved biomes, scheduled to
+be released to testers on [500.2014](http://tylerneylon.com/a/7date/).
+In the meantime,
+a series of improvements to existing features is
+scheduled for 440.2014.
 
 ## Major game events and version numbers
 
@@ -54,12 +56,12 @@ Apanga will evolve as an alpha, beta, and a release version.
 The following is an incomplete list of upcoming alpha milestones.
 Not all milestones have corresponding issues in the
 issue tracker; instead, enhancement issues tend to focus on smaller steps
-that make up the milestones.
+that make up the milestones. Some of these milestones
+correspond to predefined version numbers.
 
-* A windows version
-* Decent landscape
-* Decent shading
-* Better render distance
-* Land editing
-* Crafting
-
+* [x] `v0.2` A windows version
+* [x] `v0.3` Better render distance
+* [ ] `v0.3+` Decent shading
+* [ ] `v0.4` Decent landscape
+* [ ] `v0.5` Land editing
+* [ ] `v0.6` Crafting
