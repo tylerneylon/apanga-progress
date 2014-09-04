@@ -37,9 +37,8 @@ Examples:
 
 ## Next milestone
 
-The next milestone will focus on improved biomes, scheduled to
-be released to testers on [500.2014](http://tylerneylon.com/a/7date/).
-A secondary goal of this milestone is to improve the walking algorithm.
+The next milestone will focus on world editing, scheduled to
+be released to testers on [600.2014](http://tylerneylon.com/a/7date/).
 
 ## Major game events and version numbers
 
@@ -60,6 +59,6 @@ correspond to predefined version numbers.
 * [x] `v0.2` A windows version
 * [x] `v0.3` Better render distance
 * [x] `v0.3+` Decent shading
-* [ ] `v0.4` Decent landscape
+* [x] `v0.4` Decent landscape
 * [ ] `v0.5` Land editing
 * [ ] `v0.6` Crafting
