@@ -44,9 +44,9 @@ be released to testers on [600.2014](http://tylerneylon.com/a/7date/).
 
 Apanga will evolve as an alpha, beta, and a release version.
 
-* **alpha** = unstable; `v0.*`
-* **beta** = fun and unstable; `v1.*`
-* **release** = fun and stable; `v2+`
+* **alpha** = unstable; `v0.*`, `v1.*`
+* **beta** = fun and unstable; `v2.*`, `v3.*`
+* **release** = fun and stable; `v4+`
 
 ## Alpha milestones
 
@@ -60,5 +60,5 @@ correspond to predefined version numbers.
 * [x] `v0.3` Better render distance
 * [x] `v0.3+` Decent shading
 * [x] `v0.4` Decent landscape
-* [ ] `v0.5` Land editing
-* [ ] `v0.6` Crafting
+* [x] `v0.5` Land editing
+* [ ] `v0.6` Basic health and fighting
