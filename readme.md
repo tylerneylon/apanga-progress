@@ -35,6 +35,20 @@ Examples:
 * Emoticons in player names don't display correctly is a **P3**.
 * Your character looks ugly is a **P4**.
 
+## Current status
+
+The current version is v0.52, as of 551.2015.
+
+I'm in the process of adding enemies and fighting mechanics.
+
+Here is an approximate roadmap between here and v0.6, which is the point at
+which basic fighting and AI is essentially working, though not yet polished.
+
+* `v0.53` - enemy attack behavior and navigation
+* `v0.54` - enemy audio, animations, placement, and persistence
+* `v0.60` - attack collisions, hit points, player and enemy death, enemy simulation when
+signed out, balance and gamefeel
+
 ## Next milestone
 
 The next milestone will focus on world editing, scheduled to
